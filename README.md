@@ -1,6 +1,7 @@
 ## Hello! My name is <strong> Jasiek Lewandowski <strong> 👋
   </br>
-### So glad you found my repository! Huh :sweat_drops: So hard to break through the crowds of other juniors! 
+  
+## So glad you found my repository! Huh 💦 So hard to break through the crowds of other juniors! 
 
 
 
