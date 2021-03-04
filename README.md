@@ -36,7 +36,6 @@ My superpowers are programming 💻 and Adobe Creative Suite 🎆
 <br />
 
 ## I invite you to view my projects, where I present my greatest works. 
-And if you think this is not enough, I challenge you to come back here in a few weeks. 
-I'm sure I'll have some new projects that I'll surprise you with 💣
+And if you think this is not enough, I challenge you to come back here in a few weeks and see my progress 💣
 
 
