@@ -7,13 +7,13 @@ Huh! 💦 I'm so happy you found my repository! It's really hard to break throug
 Even though I don't wear a cape and tight suit and I spend most of my day in front of the computer, that doesn't mean I can't do cool stuff 💥
 My superpowers are programming 💻 and Adobe Creative Suite 🎆
 
-<br />
 
-#### Current front-end flag projects:
+
+### Current front-end flag projects:
 - 💫 [Interstellar Mouse Trail Effect](https://github.com/JasiekLewandowski/SpaceMouseTrail) 
 - 🔴 [Bubble Animated Backgroud + Mouse Trail Effect](https://github.com/JasiekLewandowski/AnimatedBubbleCanvasAndMouseTrail) 
 
-#### Current back-end flag projects:
+### Current back-end flag projects:
 - ☕ [REST application for handling orders](https://github.com/JasiekLewandowski/BarOrders-REST)
 - 🔓 [Encryption and decryption algorithms](https://github.com/JasiekLewandowski/Cryptography)
 - 🎮 [Lord of the Rings Pong game](https://github.com/JasiekLewandowski/Pong-LordOfTheRings)
