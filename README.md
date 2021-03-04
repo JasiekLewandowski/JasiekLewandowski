@@ -8,8 +8,13 @@ My superpowers are programming 💻 and Adobe Creative Suite 🎆
 
 #### Current front-end flag projects:
 - 💫 [Interstellar Mouse Trail Effect](https://github.com/JasiekLewandowski/SpaceMouseTrail) 
-  
 - 🔴 [Bubble Animated Backgroud + Mouse Trail Effect](https://github.com/JasiekLewandowski/AnimatedBubbleCanvasAndMouseTrail) 
+
+<br/ >
+#### Current back-end flag projects:
+- ☕ [REST application for handling orders](https://github.com/JasiekLewandowski/BarOrders-REST)
+- 🔓 [Encryption and decryption algorithms](https://github.com/JasiekLewandowski/Cryptography)
+- 🎮 [Lord of the Rings Pong game](https://github.com/JasiekLewandowski/Pong-LordOfTheRings)
 
 ## I invite you to view my projects, where I present my greatest works. 
 And if you think this is not enough, I challenge you to come back here in a few weeks. 
