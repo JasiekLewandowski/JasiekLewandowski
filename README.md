@@ -1,7 +1,7 @@
 ### Hello! 👋 
 Huh! 💦 It's really hard to break through the crowds of other juniors, I'm so happy you found my repository! 
 
-## My name is Jasiek Lewandowski but people call me... the Filmmaker-Programmer-Man!!! 🌌
+## My name is Jasiek Lewandowski and I am... the Filmmaker-Programmer-Man!!! 🌌
 
 
 
