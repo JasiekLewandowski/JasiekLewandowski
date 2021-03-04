@@ -1,5 +1,6 @@
 ### Hello! 👋 
 Huh! 💦 So glad you found my repository! So hard to break through the crowds of other juniors! 
+Stop for a moment and let me tell you about myself and why I can be exactly the person you are looking for. 
 
 ## My name is Jasiek Lewandowski 
 
