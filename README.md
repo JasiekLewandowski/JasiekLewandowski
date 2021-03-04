@@ -22,7 +22,7 @@ My superpowers are programming 💻 and Adobe Creative Suite 🎆
 
 ## Technologies
 <img align="left" alt="Java" height="50px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
-<img align="left" alt="Spring" width="50px" src="https://www.nicepng.com/png/detail/31-314820_logo-spring-spring-framework-logo-svg.png" />
+<img align="left" alt="Spring" height="50px" src="https://www.nicepng.com/png/detail/31-314820_logo-spring-spring-framework-logo-svg.png" />
 <img align="left" alt="Hibernate" width="50px" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" />
 <img align="left" alt="HTML" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" />
 <img align="left" alt="javascript" width="50px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />
