@@ -21,7 +21,7 @@ My superpowers are programming 💻 and Adobe Creative Suite 🎆
 <br />
 
 ## Technologies
-<img align="left" alt="Java" width="50px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
+<img align="left" alt="Java" height="50px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
 <img align="left" alt="Spring" width="50px" src="https://www.nicepng.com/png/detail/31-314820_logo-spring-spring-framework-logo-svg.png" />
 <img align="left" alt="Hibernate" width="50px" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" />
 <img align="left" alt="HTML" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" />
@@ -30,15 +30,8 @@ My superpowers are programming 💻 and Adobe Creative Suite 🎆
 <img align="left" alt="aftereffects" width="50px" src="https://www.vebo.pl/images/items/2280/adobe_top.png" />
 <img align="left" alt="photoshop" width="50px" src="https://www.almrsal.com/wp-content/uploads/2020/07/31.png" />
 
+
 <br />
-
-- Java 11
-- Spring & Hibernate
-- HTML5
-- CSS3
-- JavaScript
-- SQL
-
 <br />
 
 ## I invite you to view my projects, where I present my greatest works. 
@@ -46,30 +39,3 @@ And if you think this is not enough, I challenge you to come back here in a few 
 I'm sure I'll have some new projects that I'll surprise you with 💣
 
 
-
-
-
-<!--
-**JasiekLewandowski/JasiekLewandowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-:movie_camera:
-:computer:
-:mortar_board:
-:hammer:
-:bomb:
-:city_sunrise:
-:city_sunset:
-:rocket
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
