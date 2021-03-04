@@ -1,6 +1,6 @@
 ## Hello! 👋 
 
-##### Huh! 💦 It's really hard to break through the crowds of other juniors, I'm so happy you found my repository! 
+##### Huh! 💦 I'm so happy you found my repository! It's really hard to break through the crowds of other juniors!
 <br />
 
 ## About me
