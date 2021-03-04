@@ -9,7 +9,6 @@ My superpowers are programming 💻 and Adobe Creative Suite 🎆
 
 <br />
 
-## Projects
 #### Current front-end flag projects:
 - 💫 [Interstellar Mouse Trail Effect](https://github.com/JasiekLewandowski/SpaceMouseTrail) 
 - 🔴 [Bubble Animated Backgroud + Mouse Trail Effect](https://github.com/JasiekLewandowski/AnimatedBubbleCanvasAndMouseTrail) 
