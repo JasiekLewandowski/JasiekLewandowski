@@ -5,12 +5,11 @@
 My name is Jasiek Lewandowski and I am... the Filmmaker-Programmer-Man!!! 🌌
 Even though I don't wear a cape and tight suit and I spend most of my day in front of the computer, that doesn't mean I can't do cool stuff 💥
 My superpowers are programming 💻 and Adobe Creative Suite 🎆
-
+<br/>
 #### Current front-end flag projects:
 - 💫 [Interstellar Mouse Trail Effect](https://github.com/JasiekLewandowski/SpaceMouseTrail) 
 - 🔴 [Bubble Animated Backgroud + Mouse Trail Effect](https://github.com/JasiekLewandowski/AnimatedBubbleCanvasAndMouseTrail) 
 
-<br/ >
 #### Current back-end flag projects:
 - ☕ [REST application for handling orders](https://github.com/JasiekLewandowski/BarOrders-REST)
 - 🔓 [Encryption and decryption algorithms](https://github.com/JasiekLewandowski/Cryptography)
