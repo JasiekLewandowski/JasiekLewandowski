@@ -21,6 +21,7 @@ My superpowers are programming 💻 and Adobe Creative Suite 🎆
 <br />
 
 ## Technologies
+<img align="left" alt="Java" width="26px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
 - Java 11
 - Spring & Hibernate
 - HTML5
