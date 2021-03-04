@@ -28,7 +28,7 @@ My superpowers are programming 💻 and Adobe Creative Suite 🎆
 <img align="left" alt="javascript" height="30px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />
 <img align="left" alt="premiere" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/1200px-Adobe_Premiere_Pro_Logo.svg.png" />
 <img align="left" alt="aftereffects" height="30px" src="https://www.vebo.pl/images/items/2280/adobe_top.png" />
-<img align="left" alt="photoshop" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_CS6_icon.svg/300px-Adobe_Photoshop_CS6_icon.svg.png" />
+<img align="left" alt="photoshop" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_CS6_icon.svg/300px-Adobe_Photoshop_CS6_icon.svg.png" />
 
 
 <br />
