@@ -1,8 +1,9 @@
 ### Hello! 👋 
-Huh! 💦 So glad you found my repository! So hard to break through the crowds of other juniors! 
-Stop for a moment and let me tell you about myself and why I can be exactly the person you are looking for. 
+I'm so happy you found my repository! It's really hard to break through the crowds of other juniors 💦 
+Now that you are here let me tell you about myself and why I can be exactly the person you are looking for. 
 
-## My name is Jasiek Lewandowski 
+## My name is Jasiek Lewandowski but people call me... the Filmmaker-Programmer-Man!!! 🌌
+
 
 
 
