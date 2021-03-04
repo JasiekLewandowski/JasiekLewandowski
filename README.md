@@ -20,6 +20,16 @@ My superpowers are programming 💻 and Adobe Creative Suite 🎆
 - 🔓 [Encryption and decryption algorithms](https://github.com/JasiekLewandowski/Cryptography)
 - 🎮 [Lord of the Rings Pong game](https://github.com/JasiekLewandowski/Pong-LordOfTheRings)
 
+<br />
+
+## Technologies
+- Java 11
+- Spring & Hibernate
+- HTML5
+- CSS3
+- JavaScript
+- SQL
+
 ## I invite you to view my projects, where I present my greatest works. 
 And if you think this is not enough, I challenge you to come back here in a few weeks. 
 I'm sure I'll have some new projects that I'll surprise you with 💣
