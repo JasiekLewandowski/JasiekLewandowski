@@ -7,7 +7,7 @@ Huh! 💦 I'm so happy you found my repository! It's really hard to break throug
 Even though I don't wear a cape or tight suit and I spend a lot of time in front of the computer, that doesn't mean I can't do cool stuff 💥
 My superpowers are programming 💻 and Adobe Creative Suite 🎆
 
-
+<br />
 
 ### Current front-end flag projects:
 - 💫 [Interstellar Mouse Trail Effect](https://github.com/JasiekLewandowski/SpaceMouseTrail) 
