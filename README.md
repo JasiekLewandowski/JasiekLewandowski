@@ -21,14 +21,14 @@ My superpowers are programming 💻 and Adobe Creative Suite 🎆
 <br />
 
 ## Technologies
-<img align="left" alt="Java" height="50px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
-<img align="left" alt="Spring" height="50px" src="https://spring-petclinic.github.io/images/logo-spring.png" />
-<img align="left" alt="HTML" height="50px" src="https://catalin.red/dist/uploads/2011/01/css3-html5-logo-initial.png" />
-<img align="left" alt="CSS" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
-<img align="left" alt="javascript" height="50px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />
-<img align="left" alt="premiere" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/1200px-Adobe_Premiere_Pro_Logo.svg.png" />
-<img align="left" alt="aftereffects" height="50px" src="https://www.vebo.pl/images/items/2280/adobe_top.png" />
-<img align="left" alt="photoshop" height="50px" src="https://www.almrsal.com/wp-content/uploads/2020/07/31.png" />
+<img align="left" alt="Java" width="50px" height="50px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
+<img align="left" alt="Spring" width="50px" height="50px" src="https://spring-petclinic.github.io/images/logo-spring.png" />
+<img align="left" alt="HTML" width="50px" height="50px" src="https://catalin.red/dist/uploads/2011/01/css3-html5-logo-initial.png" />
+<img align="left" alt="CSS" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+<img align="left" alt="javascript" width="50px" height="50px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />
+<img align="left" alt="premiere" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/1200px-Adobe_Premiere_Pro_Logo.svg.png" />
+<img align="left" alt="aftereffects" width="50px" height="50px" src="https://www.vebo.pl/images/items/2280/adobe_top.png" />
+<img align="left" alt="photoshop" width="50px" height="50px" src="https://www.almrsal.com/wp-content/uploads/2020/07/31.png" />
 
 
 <br />
