@@ -1,14 +1,18 @@
 ## Hello! 👋 
 
 ##### Huh! 💦 It's really hard to break through the crowds of other juniors, I'm so happy you found my repository! 
-
+<br/>
 ## My name is Jasiek Lewandowski and I am... the Filmmaker-Programmer-Man!!! 🌌
 Even though I don't wear a cape and tight suit and I spend most of my day in front of the computer, that doesn't mean I can't do cool stuff 💥
 My superpowers are programming 💻 and Adobe Creative Suite 🎆
 
+Current <strong> front-end <strong> flag projects:
+- [Interstellar Mouse Trail Effect](https://github.com/JasiekLewandowski/SpaceMouseTrail) 
+- [Bubble Animated Backgroud + Mouse Trail Effect](https://github.com/JasiekLewandowski/AnimatedBubbleCanvasAndMouseTrail) 
+
 ## I invite you to view my projects, where I present my greatest works. 
 And if you think this is not enough, I challenge you to come back here in a few weeks. 
-I'm sure I'll have some new projects that I'll surprise you with.
+I'm sure I'll have some new projects that I'll surprise you with 💣
 
 
 
