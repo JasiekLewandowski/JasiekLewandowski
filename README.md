@@ -22,8 +22,9 @@ My superpowers are programming 💻 and Adobe Creative Suite 🎆
 
 ## Technologies
 <img align="left" alt="Java" height="50px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
-<img align="left" alt="Spring" height="50px" src="https://www.nicepng.com/png/detail/31-314820_logo-spring-spring-framework-logo-svg.png" />
+<img align="left" alt="Spring" height="50px" src="https://spring-petclinic.github.io/images/logo-spring.png" />
 <img align="left" alt="HTML" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" />
+<img align="left" alt="CSS" height="50px" src="https://banner2.cleanpng.com/20180406/uew/kisspng-cascading-style-sheets-javascript-html-css3-jquery-logo-5ac78cfa148694.1772279515230271940841.jpg" />
 <img align="left" alt="javascript" height="50px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />
 <img align="left" alt="premiere" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/1200px-Adobe_Premiere_Pro_Logo.svg.png" />
 <img align="left" alt="aftereffects" height="50px" src="https://www.vebo.pl/images/items/2280/adobe_top.png" />
