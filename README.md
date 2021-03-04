@@ -1,5 +1,5 @@
 ### Hello! 👋 
-I'm so happy you found my repository! It's really hard to break through the crowds of other juniors 💦 
+Huh! 💦 It's really hard to break through the crowds of other juniors, I'm so happy you found my repository! 
 
 ## My name is Jasiek Lewandowski but people call me... the Filmmaker-Programmer-Man!!! 🌌
 
