@@ -3,8 +3,8 @@
 Huh! 💦 I'm so happy you found my repository! It's really hard to break through the crowds of other juniors!
 
 
-### My name is Jasiek Lewandowski and I am... the Filmmaker-Programmer-Man!!! 🌌
-Even though I don't wear a cape and tight suit and I spend most of my day in front of the computer, that doesn't mean I can't do cool stuff 💥
+### My name is Jasiek Lewandowski
+Even though I don't wear a cape or tight suit and I spend a lot of time in front of the computer, that doesn't mean I can't do cool stuff 💥
 My superpowers are programming 💻 and Adobe Creative Suite 🎆
 
 
